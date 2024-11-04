@@ -30,3 +30,7 @@ Edit [provision.yml](https://github.com/deliciousbrains/wordpress-ansible/blob/m
 Run:
 
 `ansible-playbook provision.yml`
+
+Ref.:
+https://docs.ansible.com/
+https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
